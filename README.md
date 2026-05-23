@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou o Mateus 👋
 
-<!--
-**mateusalencarsantos738-dev/mateusalencarsantos738-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Focado em me tornar Desenvolvedor Full Stack  
+📚 Estudando Java, Python, Estruturas de Dados e Web  
+☁️ Interesse em Cloud, IA e Backend  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+- 🔹 Sistema TRI/ENEM
+- 🔹 Estudos de Estrutura de Dados
+- 🔹 Exercícios de Java e Python
+- 🔹 Projetos Web
+
+---
+
+## 📫 Contato
+
+📧 mateusalencarsantos738@gmail.com
