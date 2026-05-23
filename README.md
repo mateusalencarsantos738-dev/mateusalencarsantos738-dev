@@ -1,6 +1,6 @@
 # Mateus Alencar Santos
 
-Estudante de ADS no IFPI · Desenvolvendo em Python e Java · Foco em backend e infraestrutura
+ADS student focused on backend development, infrastructure and scalable systems.
 
 ---
 
