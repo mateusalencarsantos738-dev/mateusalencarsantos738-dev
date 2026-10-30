@@ -1,13 +1,20 @@
-# Mateus Alencar Santos
+<div align="center">
 
-ADS student focused on backend development, infrastructure and scalable systems.
+<img src="assets/hero.svg" alt="Mateus Alencar Santos, ADS student focused on backend development, infrastructure and scalable systems" width="100%">
 
----
+<img src="assets/stack.svg" alt="Stack: Python, Java, C, PostgreSQL, Linux, Git, PyTorch" width="100%">
 
-## Stack atual
+<img src="assets/projetos.svg" alt="Projetos" width="100%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+[lastro-financeiro](https://github.com/mateusalencarsantos738-dev/lastro-financeiro) ·
+[CNN-CIFAR100-PyTorch](https://github.com/mateusalencarsantos738-dev/CNN-CIFAR100-PyTorch) ·
+[python-fundamentals](https://github.com/mateusalencarsantos738-dev/python-fundamentals) ·
+[java-fundamentals](https://github.com/mateusalencarsantos738-dev/java-fundamentals) ·
+[c-fundamentals](https://github.com/mateusalencarsantos738-dev/c-fundamentals)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fd971f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1f1c)](https://www.linkedin.com/in/mateus-alencar-santos-169828371)
+[![Site](https://img.shields.io/badge/Site-fd971f?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1e1f1c)](https://mateusalencarsantos738-dev.github.io/)
+
+</div>
