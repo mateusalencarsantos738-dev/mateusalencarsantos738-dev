@@ -14,7 +14,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fd971f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1f1c)](https://www.linkedin.com/in/mateus-alencar-santos-169828371)
-[![Site](https://img.shields.io/badge/Site-fd971f?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=1e1f1c)](https://mateusalencarsantos738-dev.github.io/)
+<a href="https://www.linkedin.com/in/mateus-alencar-santos-169828371"><img src="assets/linkedin.svg" width="48%" alt="LinkedIn de Mateus Alencar Santos"></a>
+<a href="https://mateusalencarsantos738-dev.github.io/"><img src="assets/site.svg" width="48%" alt="Site de Mateus Alencar Santos"></a>
 
 </div>
