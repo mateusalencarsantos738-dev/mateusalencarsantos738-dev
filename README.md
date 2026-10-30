@@ -6,7 +6,8 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/mateus-alencar-santos-169828371"><img src="assets/linkedin.svg" width="48%" alt="LinkedIn de Mateus Alencar Santos"></a>
-<a href="https://mateusalencarsantos738-dev.github.io/"><img src="assets/site.svg" width="48%" alt="Site de Mateus Alencar Santos"></a>
+<a href="https://www.linkedin.com/in/mateus-alencar-santos-169828371"><img src="assets/linkedin.svg" height="38" alt="LinkedIn de Mateus Alencar Santos"></a>
+&nbsp;&nbsp;
+<a href="https://mateusalencarsantos738-dev.github.io/"><img src="assets/site.svg" height="38" alt="Site de Mateus Alencar Santos"></a>
 
 </div>
